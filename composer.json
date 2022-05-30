@@ -1,0 +1,18 @@
+{
+    "description": "Project MVC em PHP ",
+    "authors": [
+        {
+            "name": "Isaque Menezes",
+            "email": "isaque-menezes@hotmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\" :"source/",
+            "Core\\" :"core/",
+            "App\\" : "app/"
+        }
+    },
+    "require": {}
+}
