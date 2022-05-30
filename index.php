@@ -15,6 +15,7 @@ require_once 'vendor/autoload.php';
         <?php 
          
             $url = new Core\ConfigController();
+            $url->carregar();
         
         ?>
         
