@@ -49,6 +49,7 @@
             // echo "\\Source\\Controllers\\". $this->url_controller;
             $classe =  "\\Source\\Controllers\\". $url_controller;
             // echo $classe;
+            
             $classe_carregar=new $classe;
 
             $classe_carregar->index();
