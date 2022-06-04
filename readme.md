@@ -1,5 +1,5 @@
 # MVC PHP   
-Instrutor, Celker 
+Instrutor, Celke
 
 <img src="./mvc-php01.png"/>
 <img src="./mvc-php02.png"/>
